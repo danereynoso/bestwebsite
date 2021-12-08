@@ -4,16 +4,16 @@
 
 ### My Creative works 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Music Creator](/sample_page)
+<img src="images/musiccreator.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Double Exposure](/pdf/sample_presentation.pdf)
+<img src="images/kerchooproject.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Galaxy Cat](http://example.com/)
+<img src="images/galaxycat.jpg?raw=true"/>
 
 ---
 
