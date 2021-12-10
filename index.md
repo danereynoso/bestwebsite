@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Double Exposure](/pdf/sample_presentation.pdf)
-<img src="images/kerchooproject.jpg?raw=true"/>
+<img src="images/mount.jpg?raw=true"/>
 
 ---
 [Project 3 Galaxy Cat](http://example.com/)
