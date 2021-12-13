@@ -13,10 +13,13 @@
 
 ---
 [Project 3 Galaxy Cat](http://example.com/)
-<img src="images/galaxycat.jpg?raw=true"/>
+<img src="images/galaxycat2.jpg?raw=true"/>
 
 ---
+[Project 4 Color Swirls](/pdf/sample_presentation.pdf)
+<img src="images/.jpg?raw=true"/>
 
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
