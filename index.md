@@ -17,7 +17,7 @@
 
 ---
 [Project 4 Color Swirls](/pdf/sample_presentation.pdf)
-<img src="images/liquidproject.jpg?raw=true"/>
+<img src="images/liquidproject.png?raw=true"/>
 
 ---
 ### Category Name 2
