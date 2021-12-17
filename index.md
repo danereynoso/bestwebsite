@@ -20,6 +20,14 @@
 <img src="images/liquidproject.png?raw=true"/>
 
 ---
+[Project 5 Pop Out](/pdf/sample_presentation.pdf)
+<img src="images/shrek.png?raw=true"/>
+
+---
+[Project 6 Retro](/pdf/sample_presentation.pdf)
+<img src="images/coolretro.jpg?raw=true"/>
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
