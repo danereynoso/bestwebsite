@@ -16,15 +16,19 @@
 <img src="images/galaxycat2.jpg?raw=true"/>
 
 ---
-[Project 4 Color Swirls](/pdf/sample_presentation.pdf)
+[Project 4 Earth](http://example.com/)
+<img src="images/earthday.jpg?raw=true"/>
+
+---
+[Project 5 Color Swirls](/pdf/sample_presentation.pdf)
 <img src="images/liquidproject.png?raw=true"/>
 
 ---
-[Project 5 Pop Out](/pdf/sample_presentation.pdf)
+[Project 6 Pop Out](/pdf/sample_presentation.pdf)
 <img src="images/shrek.png?raw=true"/>
 
 ---
-[Project 6 Retro](/pdf/sample_presentation.pdf)
+[Project 7 Retro](/pdf/sample_presentation.pdf)
 <img src="images/coolretro.jpg?raw=true"/>
 
 ---
